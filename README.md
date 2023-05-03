@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjscode&label=Profile%20views&color=0e75b6&style=flat" alt="cjscode" /> </p>
 
-- 🔭 I’m currently working on [Looteer](https://github.com/cjscode/Looteer/)
+- 🔭 I’m currently working on [Advanceer](https://github.com/cjscode/Advanceer/)
 
 - 🌱 I’m currently learning **JS, HTML, and CSS**
 
-- 👯 I’m looking to collaborate on [Looteer](https://github.com/cjscode/Looteer/)
+- 👯 I’m looking to collaborate on [Advanceer](https://github.com/cjscode/Advanceer/)
 
-- 🤝 I’m looking for help with [Looteer Ideas](https://github.com/cjscode/Looteer/)
+- 🤝 I’m looking for help with [Advanceer](https://github.com/cjscode/Advanceer/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/cjscode](https://github.com/cjscode)
 
