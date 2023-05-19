@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjscode&label=Profile%20views&color=0e75b6&style=flat" alt="cjscode" /> </p>
 
-- 🔭 I’m currently working on [PlsGiveMeMoney](https://github.com/cjscode/PlsGiveMeMoney/)
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **JS, HTML, and CSS**
 
-- 👯 I’m looking to collaborate on [PlsGiveMeMoney](https://github.com/cjscode/PlsGiveMeMoney/)
+- 👯 I’m looking to collaborate on Nothing
 
-- 🤝 I’m looking for help with [PlsGiveMeMoney](https://github.com/cjscode/PlsGiveMeMoney/)
+- 🤝 I’m looking for help with Nothing
 
 - 👨‍💻 All of my projects are available at [https://github.com/cjscode](https://github.com/cjscode)
 
