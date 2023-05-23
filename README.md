@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cjscode](https://github.com/cjscode)
 
-- 💬 Ask me about **HTML and JS**
+- 💬 Ask me about **HTML, JS, and CSS**
 
 - 📫 How to reach me **cmoo8675@lps53.org**
 
