@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cjscode](https://github.com/cjscode)
 
-- 💬 Ask me about **HTML, JS, CSS, and Luau **
+- 💬 Ask me about **HTML, JS, CSS, and Luau**
 
 - 📫 How to reach me **cmoo8675@lps53.org**
 
