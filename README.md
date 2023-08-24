@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjscode&label=Profile%20views&color=0e75b6&style=flat" alt="cjscode" /> </p>
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on Something Secret...
 
 - 🌱 I’m currently learning **JS, HTML, and CSS**
 
