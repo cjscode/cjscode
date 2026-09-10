@@ -1,13 +1,13 @@
 ### cjscode.yaml:
 ```
-name: caden moore
-description: a software programmer
+name: Caden Moore
+description: A software programmer
 current_project:
   name: Terobit
   url: terobit.io
   language: rust
-  description: a multiplayer-first game engine made in rust based on speed, security, and customizability. 
-  state: early prototyping
+  description: A multiplayer-first game engine made in rust based on speed, security, and customizability
+  state: Early prototyping
 contact_and_social:
   email:
     inquiry: cjscode@terobit.io
