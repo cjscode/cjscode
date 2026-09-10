@@ -5,7 +5,7 @@ description: A software programmer
 current_project:
   name: Terobit
   url: terobit.io
-  language: rust
+  language: Rust
   description: A multiplayer-first game engine made in rust based on speed, security, and customizability
   state: Early prototyping
 contact_and_social:
