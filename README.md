@@ -18,6 +18,13 @@ skills:
     - Java
     - C++
     - SQL
+  frameworks_or_libraries:
+    - Next.js
+    - WGPU.rs
+    - Winit.rs
+    - Diesel.rs
+    - Argon2.rs
+    - Tracing.rs
 contact_and_social:
   email:
     inquiry: cjscode@terobit.io
