@@ -8,6 +8,16 @@ current_project:
   language: Rust
   description: A multiplayer-first game engine made in rust based on speed, security, and customizability
   state: Early prototyping
+skills:
+  languages:
+    - Rust
+    - Python
+    - JavaScript
+    - HTML
+    - CSS
+    - Java
+    - C++
+    - SQL
 contact_and_social:
   email:
     inquiry: cjscode@terobit.io
