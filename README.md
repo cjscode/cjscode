@@ -2,6 +2,7 @@
 ```yaml
 name: Caden Moore
 description: A software programmer
+age: 16
 current_project:
   name: Terobit
   url: terobit.io
@@ -18,6 +19,7 @@ skills:
     - Java
     - C++
     - SQL
+    - Lua(u)
   frameworks_or_libraries:
     - Next.js
     - WGPU.rs
