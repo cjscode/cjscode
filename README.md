@@ -1,5 +1,5 @@
 ### cjscode.yaml:
-```
+```yaml
 name: Caden Moore
 description: A software programmer
 current_project:
