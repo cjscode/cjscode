@@ -9,6 +9,11 @@ current_project:
   language: Rust
   description: A multiplayer-first game engine made in rust based on speed, security, and customizability
   state: Early prototyping
+  platform_support:
+    - Windows
+    - MacOS
+  unknown_support:
+    - Linux
 skills:
   languages:
     - Rust
