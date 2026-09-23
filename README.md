@@ -7,7 +7,7 @@ current_project:
   name: Terobit
   url: terobit.io
   language: Rust
-  description: A multiplayer-first game engine made in rust based on speed, security, and customizability
+  description: A multiplayer-first desktop game engine made in rust based on speed, security, and customizability
   state: Early prototyping
   platform_support:
     - Windows
