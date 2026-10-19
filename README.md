@@ -23,6 +23,7 @@ other_projects:
     state: Post-Season Development
     role: Programming Lead
     team: PowerHouse 9410
+    notes: I do work through Ayden or Chad's account. I do not work through this account.
   cal_tasks:
     name: Google CalTasks for MacOS
     url: github.com/cjscode/CalTasks
