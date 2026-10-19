@@ -8,12 +8,28 @@ current_project:
   url: terobit.io
   language: Rust
   description: A multiplayer-first desktop game engine made in rust based on speed, security, and customizability built on Bevy
-  state: Early prototyping
+  state: Early Prototyping
   known_support:
     - Windows
     - MacOS
   unknown_support:
     - Linux
+other_projects:
+  frc_robot:
+    name: 2026 Robot
+    url: github.com/FRC9410/2026-Robot
+    language: Java
+    description: The main codebase for PowerHouse 9410's competition FRC robot. I do not maintain Powertool.
+    state: Post-Season Development
+    role: Programming Lead
+    team: PowerHouse 9410
+  cal_tasks:
+    name: Google CalTasks for MacOS
+    url: github.com/cjscode/CalTasks
+    language: Swift
+    description: Brings Google Calendar and Google Tasks to MacOS.
+    state: Early Development
+    support: MacOS only
 skills:
   languages:
     - Rust
