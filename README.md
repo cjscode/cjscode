@@ -16,8 +16,8 @@ current_project:
     - Linux
 other_projects:
   frc_robot:
-    name: 2026 Robot
-    url: github.com/FRC9410/2026-Robot
+    name: 2026 Robot (with Powerlib)
+    url: https://github.com/FRC9410/2026-Robot-Powerlib-Rewrite
     language: Java
     description: The main codebase for PowerHouse 9410's competition FRC robot. I do not maintain Powertool.
     state: Post-Season Development
