@@ -5,25 +5,7 @@
 A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>low</i> memory usage, and <i>efficiency</i> while retaining <i>ease-of-use</i> in software.
 
 <h2>Current Projects</h2>
-<table>
-  <tr>
-    <td width="50%">
 
-### Box 1 Title
-This is the text or a code block inside the first box.
-```python
-print("Hello from Box 1")
-```
-
-    </td>
-    <td width="50%">
-
-### Box 2 Title
-This is the text or a code block inside the second box.
-```python
-print("Hello from Box 2")
-```
-
-    </td>
-  </tr>
-</table>
+| Left Box Header | Right Box Header |
+| :--- | :--- |
+| **Box 1 Content** <br><br> Add text here. You can use `<br>` tags to make new lines. | **Box 2 Content** <br><br> Add text here. |
