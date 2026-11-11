@@ -25,7 +25,7 @@ Realm packages run compressed to save massive storage space in some projects. Th
   </tr>
   <td width="100%">
 
-<h2>FIRST Robotics Team 9410</h2>
+<h2><img src="robotics.png" alt="Terobit logo" height="45" align="absbottom">&nbspFIRST Robotics Team 9410</h2>
 desc
     
   </td>
