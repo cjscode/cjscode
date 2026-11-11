@@ -13,7 +13,7 @@ A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>lo
 <img src="terobit-logo.svg" alt="Terobit logo" height="45" align="absbottom">
 &nbsp;Terobit
 </h2>
-A multiplayer-first game engine based on <i>speed</i>, <i>low mem usage</i>, and <i>efficiency</i>, made in Rust. Based on the Bevy ECS and Rendering Engine.
+A multiplayer-first game engine based on <i>speed</i>, <i>low memory usage</i>, and <i>efficiency</i>, made in Rust. Based on the Bevy ECS and Rendering Engine.
 <h3>Features</h3>
 <h4>Sandboxed Scripts</h4>
 Scripts are run in a Wasmtime sandbox, over a contiguous, versioned API. Scripts only have access to what the host gives them access to, and nothing more. Running a WASM scripting stack allows for developers to use nearly any language compatible with WASM.
