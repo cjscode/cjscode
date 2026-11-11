@@ -8,7 +8,7 @@ A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>lo
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
 
 ### Box 1 Title
 This is the text or a code block inside the first box.
@@ -17,7 +17,7 @@ print("Hello from Box 1")
 ```
 
     </td>
-    <td width="50%">
+    <td width="100%">
 
 ### Box 2 Title
 This is the text or a code block inside the second box.
