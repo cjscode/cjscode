@@ -13,6 +13,7 @@ A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>lo
 <img src="terobit-logo.svg" alt="Terobit logo" height="45" align="absbottom">
 &nbsp;Terobit
 </h2>
+A game engine based on speed, low mem usage, and efficiency, made in Rust. Based on the Bevy ECS and Rendering Engine.
 </td>
   </tr>
 </table>
