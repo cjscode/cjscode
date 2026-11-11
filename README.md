@@ -10,20 +10,7 @@ A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>lo
   <tr>
     <td width="100%">
 
-### Box 1 Title
-This is the text or a code block inside the first box.
-```python
-print("Hello from Box 1")
-```
-
-    </td>
-    <td width="100%">
-
-### Box 2 Title
-This is the text or a code block inside the second box.
-```python
-print("Hello from Box 2")
-```
+        <h3>Terobit</h3>
 
     </td>
   </tr>
