@@ -9,9 +9,10 @@ A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>lo
 <table>
   <tr>
     <td width="100%">
-
-## Terobit
-
+<h2>
+<img src="terobit-logo.svg" alt="Terobit logo" height="45" align="absbottom">
+&nbsp;Terobit
+</h2>
 </td>
   </tr>
 </table>
