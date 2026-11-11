@@ -1,6 +1,6 @@
 <h1>
 <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/126678284&mask=circle" alt="pfp" height="60" align="absbottom">
-&nbspCaden Moore
+&nbsp;Caden Moore
 </h1>
 A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>low</i> memory usage, and <i>efficiency</i> while retaining <i>ease-of-use</i> in software.
 
@@ -10,8 +10,8 @@ A <strong>utilitarian</strong> programmer focused on <i>maximum</i> speed, <i>lo
   <tr>
     <td width="100%">
 
-        ## Terobit
+## Terobit
 
-    </td>
+</td>
   </tr>
 </table>
